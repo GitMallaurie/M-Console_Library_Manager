@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "THE BLACK CAT",
+    "Author": "EDGAR ALLAN POE",
+    "Genre": "HORROR",
+    "Year": 1843,
+    "Loan": false
+  },
+  {
+    "Title": "ANIMAL FARM",
+    "Author": "GEORGE ORWELL",
+    "Genre": "FICTION",
+    "Year": 1945,
+    "Loan": false
+  },
+  {
+    "Title": "1984",
+    "Author": "GEORGE ORWELL",
+    "Genre": "FICTION",
+    "Year": 1949,
+    "Loan": false
+  },
+  {
+    "Title": "FLOWERS FOR ALGERNON",
+    "Author": "DANIEL KEYES",
+    "Genre": "NOVEL",
+    "Year": 1959,
+    "Loan": false
+  },
+  {
+    "Title": "BRAVE NEW WORLD",
+    "Author": "ALDOUS HUXLEY",
+    "Genre": "FICTION",
+    "Year": 1932,
+    "Loan": false
+  },
+  {
+    "Title": "THE FLOWERS OF EVIL",
+    "Author": "CHARLES BAUDELAIRE",
+    "Genre": "POETRY",
+    "Year": 1857,
+    "Loan": false
+  }
+]

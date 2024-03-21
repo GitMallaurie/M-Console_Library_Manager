@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LibrarySolution": {
+      "commandName": "Project",
+      "commandLineArgs": "1.1 2.5 8.2",
+      "nativeDebugging": false
+    }
+  }
+}
